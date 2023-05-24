@@ -1,0 +1,885 @@
+@media (min-width: 0) and (max-width: 480px) {
+  .header .header-bottom .btn-book {
+    display: none;
+  }
+  .header .banner .banner-text h1 {
+    font-size: 24px;
+  }
+  .details {
+    position: relative;
+    margin-top: -170px;
+    padding: 20px 20px 80px 20px;
+  }
+  .details .details-bg .details-box {
+    display: block;
+  }
+  .details .details-bg .details-box .input-box {
+    width: 100%;
+  }
+  .details .details-bg .details-box .input-box .banner-btn {
+    width: 100%;
+  }
+  .section-heading h2 {
+    font-size: 24px;
+  }
+  .section-heading .heading-text {
+    padding: 0;
+  }
+  .section-destination .banner-btn {
+    display: inline-block;
+    margin: auto;
+    margin: 25px 0 60px 0;
+    padding: 8px 30px;
+  }
+  .packages .packages-header {
+    padding: 0;
+  }
+  .packages .packages-header .dash-style {
+    text-align: center;
+    padding-left: 80px;
+  }
+  .packages .packages-header .dash-style::before {
+    left: 20%;
+  }
+  .packages .packages-header h2 {
+    font-size: 24px;
+  }
+  .callback-section::before {
+    width: 100%;
+  }
+  .callback-section .callback-img {
+    height: 300px;
+    background-position: top center;
+    top: 0;
+  }
+  .callback-section .section-heading {
+    padding: 30px 0 30px 0;
+  }
+  .callback-section .section-heading h2 {
+    font-size: 24px;
+  }
+  .callback-section .contact {
+    margin-bottom: -120px;
+    padding: 20px;
+  }
+  .callback-section .contact .contact-number p {
+    font-size: 16px;
+  }
+  .callback-section .contact .contact-number h4 {
+    font-size: 24px;
+  }
+  .activity-section {
+    margin-bottom: 70px;
+  }
+  .activity-section .activity-header {
+    padding: 0;
+  }
+  .activity-section .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .activity-section .activity-header .dash-style::before {
+    left: 23%;
+  }
+  .activity-section .activity-header h2 {
+    font-size: 24px;
+  }
+  .section-offer .activity-header {
+    padding: 0;
+  }
+  .section-offer .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .section-offer .activity-header .dash-style::before {
+    left: 17%;
+  }
+  .section-offer .activity-header h2 {
+    font-size: 28px;
+  }
+  .gallery .gallery-header h2 {
+    font-size: 24px;
+  }
+  .subscribe .subscribe-heading h2 {
+    font-size: 24px;
+  }
+  .subscribe .subscribe-heading .sign-form input[type=submit] {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    top: 0;
+    left: 0;
+  }
+  .agents .agents-header {
+    padding: 0;
+  }
+  .agents .agents-header .dash-style {
+    padding-left: 70px;
+  }
+  .agents .agents-header .dash-style::before {
+    left: 27%;
+  }
+  .agents .agents-header h2 {
+    font-size: 24px;
+  }
+  .contactus .contactus-img {
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-div {
+    margin: auto;
+  }
+  .contactus .contactus-div .contactus-details {
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 0;
+    padding: 20px 0;
+  }
+  .contactus .contactus-div .contactus-details .contactus-icons {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-btn {
+    display: block !important;
+    text-align: center;
+  }
+  .contactus .contactus-btn h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .contactus .contactus-btn .btn {
+    padding: 10px 20px;
+  }
+  .footer .top-footer .top-footer-details {
+    margin-bottom: 30px;
+  }
+  .footer .bottom-footer .bottom-footer-right h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left {
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media (min-width: 480px) and (max-width: 720px) {
+  .header .header-bottom .btn-book {
+    display: none;
+  }
+  .header .banner .banner-text h1 {
+    font-size: 32px;
+  }
+  .details {
+    position: relative;
+    margin-top: -170px;
+    padding: 20px 20px 80px 20px;
+  }
+  .details .details-bg .details-box {
+    display: block;
+  }
+  .details .details-bg .details-box .input-box {
+    width: 100%;
+  }
+  .details .details-bg .details-box .input-box .banner-btn {
+    width: 100%;
+  }
+  .section-heading h2 {
+    font-size: 32px;
+  }
+  .section-heading .heading-text {
+    padding: 0;
+  }
+  .section-destination .banner-btn {
+    display: inline-block;
+    margin: auto;
+    margin: 25px 0 60px 0;
+    padding: 8px 30px;
+  }
+  .packages .packages-header {
+    padding: 0;
+  }
+  .packages .packages-header .dash-style {
+    text-align: center;
+    padding-left: 80px;
+  }
+  .packages .packages-header .dash-style::before {
+    left: 20%;
+  }
+  .packages .packages-header h2 {
+    font-size: 32px;
+  }
+  .callback-section::before {
+    width: 100%;
+  }
+  .callback-section .callback-img {
+    height: 300px;
+    background-position: top center;
+    top: 0;
+  }
+  .callback-section .section-heading {
+    padding: 30px 0 30px 0;
+  }
+  .callback-section .section-heading h2 {
+    font-size: 32px;
+  }
+  .callback-section .contact {
+    margin-bottom: -120px;
+    padding: 20px;
+  }
+  .callback-section .contact .contact-number p {
+    font-size: 16px;
+  }
+  .callback-section .contact .contact-number h4 {
+    font-size: 24px;
+  }
+  .activity-section {
+    margin-bottom: 70px;
+  }
+  .activity-section .activity-header {
+    padding: 0;
+  }
+  .activity-section .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .activity-section .activity-header .dash-style::before {
+    left: 27%;
+  }
+  .activity-section .activity-header h2 {
+    font-size: 32px;
+  }
+  .section-offer .activity-header {
+    padding: 0;
+  }
+  .section-offer .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .section-offer .activity-header .dash-style::before {
+    left: 22%;
+  }
+  .section-offer .activity-header h2 {
+    font-size: 32px;
+  }
+  .gallery .gallery-header h2 {
+    font-size: 32px;
+  }
+  .subscribe .subscribe-heading h2 {
+    font-size: 32px;
+  }
+  .subscribe .subscribe-heading .sign-form input[type=submit] {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    top: 0;
+    left: 0;
+  }
+  .agents .agents-header {
+    padding: 0;
+  }
+  .agents .agents-header .dash-style {
+    padding-left: 66px;
+  }
+  .agents .agents-header .dash-style::before {
+    left: 30%;
+  }
+  .agents .agents-header h2 {
+    font-size: 32px;
+  }
+  .contactus .contactus-img {
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-div {
+    margin: auto;
+  }
+  .contactus .contactus-div .contactus-details {
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 0;
+    padding: 20px 0;
+  }
+  .contactus .contactus-div .contactus-details .contactus-icons {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-btn {
+    display: block !important;
+    text-align: center;
+  }
+  .contactus .contactus-btn h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .contactus .contactus-btn .btn {
+    padding: 10px 20px;
+  }
+  .footer .top-footer .top-footer-details {
+    margin-bottom: 30px;
+  }
+  .footer .bottom-footer .bottom-footer-right h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left {
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media (min-width: 720px) and (max-width: 960px) {
+  .header .header-bottom .btn-book {
+    display: none;
+  }
+  .header .banner .banner-text h1 {
+    font-size: 50px;
+  }
+  .details {
+    position: relative;
+    margin-top: -170px;
+    padding: 20px 20px 80px 20px;
+  }
+  .details .details-bg .details-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .details .details-bg .details-box .input-box {
+    width: 50%;
+  }
+  .details .details-bg .details-box .input-box .banner-btn {
+    width: 100%;
+  }
+  .section-heading h2 {
+    font-size: 50px;
+  }
+  .section-heading .heading-text {
+    padding: 0;
+  }
+  .section-destination .banner-btn {
+    display: inline-block;
+    margin: auto;
+    margin: 25px 0 60px 0;
+    padding: 8px 30px;
+  }
+  .packages .packages-header {
+    padding: 0;
+  }
+  .packages .packages-header .dash-style {
+    text-align: center;
+    padding-left: 80px;
+  }
+  .packages .packages-header .dash-style::before {
+    left: 31%;
+  }
+  .packages .packages-header h2 {
+    font-size: 50px;
+  }
+  .callback-section::before {
+    width: 100%;
+  }
+  .callback-section .callback-img {
+    height: 300px;
+    background-position: top center;
+    top: 0;
+  }
+  .callback-section .section-heading {
+    padding: 30px 0 30px 0;
+  }
+  .callback-section .section-heading h2 {
+    font-size: 50px;
+  }
+  .callback-section .contact {
+    margin-bottom: -120px;
+    padding: 20px;
+  }
+  .callback-section .contact .contact-number p {
+    font-size: 16px;
+  }
+  .callback-section .contact .contact-number h4 {
+    font-size: 24px;
+  }
+  .activity-section {
+    margin-bottom: 70px;
+  }
+  .activity-section .activity-header {
+    padding: 0;
+  }
+  .activity-section .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .activity-section .activity-header .dash-style::before {
+    left: 33%;
+  }
+  .activity-section .activity-header h2 {
+    font-size: 50px;
+  }
+  .section-offer .activity-header {
+    padding: 0;
+  }
+  .section-offer .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .section-offer .activity-header .dash-style::before {
+    left: 29%;
+  }
+  .section-offer .activity-header h2 {
+    font-size: 50px;
+  }
+  .gallery .gallery-header h2 {
+    font-size: 50px;
+  }
+  .subscribe .subscribe-heading h2 {
+    font-size: 50px;
+  }
+  .subscribe .subscribe-heading .sign-form input[type=submit] {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    top: 0;
+    left: 0;
+  }
+  .agents .agents-header {
+    padding: 0;
+  }
+  .agents .agents-header .dash-style {
+    padding-left: 66px;
+  }
+  .agents .agents-header .dash-style::before {
+    left: 35%;
+  }
+  .agents .agents-header h2 {
+    font-size: 32px;
+  }
+  .contactus .contactus-img {
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-div {
+    margin: auto;
+  }
+  .contactus .contactus-div .contactus-details {
+    text-align: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 0;
+    padding: 20px 0;
+  }
+  .contactus .contactus-div .contactus-details .contactus-icons {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-btn {
+    display: block !important;
+    text-align: center;
+  }
+  .contactus .contactus-btn h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .contactus .contactus-btn .btn {
+    padding: 10px 20px;
+  }
+  .footer .top-footer .top-footer-details {
+    margin-bottom: 30px;
+  }
+  .footer .bottom-footer .bottom-footer-right h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left {
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media (min-width: 960px) and (max-width: 1200px) {
+  .header .header-bottom button a {
+    padding: 10px 5px;
+  }
+  .header .banner .banner-text h1 {
+    font-size: 50px;
+  }
+  .details {
+    position: relative;
+    margin-top: -170px;
+  }
+  .details .details-bg .details-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .details .details-bg .details-box .input-box {
+    width: 20%;
+  }
+  .details .details-bg .details-box .input-box .banner-btn {
+    width: 100%;
+    padding: 12px 27px;
+  }
+  .section-heading h2 {
+    font-size: 50px;
+  }
+  .section-heading .heading-text {
+    padding: 0;
+  }
+  .section-destination .banner-btn {
+    display: inline-block;
+    margin: auto;
+    margin: 25px 0 60px 0;
+    padding: 8px 30px;
+  }
+  .packages .packages-header {
+    padding: 0;
+  }
+  .packages .packages-header .dash-style {
+    text-align: center;
+    padding-left: 80px;
+  }
+  .packages .packages-header .dash-style::before {
+    left: 36%;
+  }
+  .packages .packages-header h2 {
+    font-size: 50px;
+  }
+  .packages .packages-card .main-body .card-info .sub-info .mid p {
+    padding: 0 10px;
+    margin: 0 10px;
+  }
+  .packages .packages-card .main-body .card-main .card-title {
+    font-size: 20px;
+  }
+  .packages .packages-card .main-body .card-btn .sub-btn {
+    padding: 12px 26px;
+  }
+  .callback-section .section-heading {
+    padding: 30px 0 30px 0;
+  }
+  .callback-section .section-heading h2 {
+    font-size: 50px;
+  }
+  .callback-section .contact {
+    margin-bottom: -120px;
+    padding: 20px;
+  }
+  .callback-section .contact .contact-number p {
+    font-size: 16px;
+  }
+  .callback-section .contact .contact-number h4 {
+    font-size: 24px;
+  }
+  .activity-section {
+    margin-bottom: 70px;
+  }
+  .activity-section .activity-header {
+    padding: 0;
+  }
+  .activity-section .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .activity-section .activity-header .dash-style::before {
+    left: 37.5%;
+  }
+  .activity-section .activity-header h2 {
+    font-size: 50px;
+  }
+  .section-offer .activity-header {
+    padding: 0;
+  }
+  .section-offer .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .section-offer .activity-header .dash-style::before {
+    left: 34.5%;
+  }
+  .section-offer .activity-header h2 {
+    font-size: 50px;
+  }
+  .gallery .gallery-header h2 {
+    font-size: 40px;
+  }
+  .subscribe .subscribe-heading h2 {
+    font-size: 50px;
+  }
+  .subscribe .subscribe-heading .sign-form input[type=submit] {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    top: 0;
+    left: 0;
+  }
+  .agents .agents-header {
+    padding: 0;
+  }
+  .agents .agents-header .dash-style {
+    padding-left: 66px;
+  }
+  .agents .agents-header .dash-style::before {
+    left: 39%;
+  }
+  .agents .agents-header h2 {
+    font-size: 50px;
+  }
+  .agents .agents-img .agents-img-ani img {
+    width: 310px;
+  }
+  .agents .agents-img .agents-img-ani i {
+    display: none;
+  }
+  .contactus .contactus-img {
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-div {
+    margin: auto;
+  }
+  .contactus .contactus-div .contactus-details {
+    text-align: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 0;
+    padding: 20px 0;
+  }
+  .contactus .contactus-div .contactus-details .contactus-icons {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-btn {
+    display: block !important;
+    text-align: center;
+  }
+  .contactus .contactus-btn h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .contactus .contactus-btn .btn {
+    padding: 10px 20px;
+  }
+  .footer .top-footer .top-footer-details {
+    margin-bottom: 30px;
+  }
+  .footer .bottom-footer .bottom-footer-right h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo img {
+    width: 155px;
+  }
+  .footer .bottom-footer .bottom-footer-left {
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .header .header-bottom button a {
+    padding: 10px 5px;
+  }
+  .header .banner .banner-text h1 {
+    font-size: 50px;
+  }
+  .details {
+    position: relative;
+    margin-top: -170px;
+  }
+  .details .details-bg .details-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .details .details-bg .details-box .input-box {
+    width: 20%;
+  }
+  .details .details-bg .details-box .input-box .banner-btn {
+    width: 100%;
+    padding: 12px 27px;
+  }
+  .section-heading h2 {
+    font-size: 50px;
+  }
+  .section-heading .heading-text {
+    padding: 0;
+  }
+  .section-destination .banner-btn {
+    display: inline-block;
+    margin: auto;
+    margin: 25px 0 60px 0;
+    padding: 8px 30px;
+  }
+  .packages .packages-header {
+    padding: 0;
+  }
+  .packages .packages-header .dash-style {
+    text-align: center;
+    padding-left: 80px;
+  }
+  .packages .packages-header .dash-style::before {
+    left: 36%;
+  }
+  .packages .packages-header h2 {
+    font-size: 50px;
+  }
+  .packages .packages-card .main-body .card-info .sub-info .mid p {
+    padding: 0 10px;
+    margin: 0 10px;
+  }
+  .packages .packages-card .main-body .card-main .card-title {
+    font-size: 20px;
+  }
+  .packages .packages-card .main-body .card-btn .sub-btn {
+    padding: 12px 26px;
+  }
+  .callback-section .section-heading {
+    padding: 30px 0 30px 0;
+  }
+  .callback-section .section-heading h2 {
+    font-size: 50px;
+  }
+  .callback-section .contact {
+    margin-bottom: -120px;
+    padding: 20px;
+  }
+  .callback-section .contact .contact-number p {
+    font-size: 16px;
+  }
+  .callback-section .contact .contact-number h4 {
+    font-size: 24px;
+  }
+  .activity-section {
+    margin-bottom: 70px;
+  }
+  .activity-section .activity-header {
+    padding: 0;
+  }
+  .activity-section .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .activity-section .activity-header .dash-style::before {
+    left: 37.5%;
+  }
+  .activity-section .activity-header h2 {
+    font-size: 50px;
+  }
+  .section-offer .activity-header {
+    padding: 0;
+  }
+  .section-offer .activity-header .dash-style {
+    padding-left: 88px;
+  }
+  .section-offer .activity-header .dash-style::before {
+    left: 34.5%;
+  }
+  .section-offer .activity-header h2 {
+    font-size: 50px;
+  }
+  .gallery .gallery-header h2 {
+    font-size: 40px;
+  }
+  .subscribe .subscribe-heading h2 {
+    font-size: 50px;
+  }
+  .subscribe .subscribe-heading .sign-form input[type=submit] {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    top: 0;
+    left: 0;
+  }
+  .agents .agents-header {
+    padding: 0;
+  }
+  .agents .agents-header .dash-style {
+    padding-left: 66px;
+  }
+  .agents .agents-header .dash-style::before {
+    left: 39%;
+  }
+  .agents .agents-header h2 {
+    font-size: 50px;
+  }
+  .agents .agents-img .agents-img-ani img {
+    width: 310px;
+  }
+  .agents .agents-img .agents-img-ani i {
+    display: none;
+  }
+  .contactus .contactus-img {
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-div {
+    margin: auto;
+  }
+  .contactus .contactus-div .contactus-details {
+    text-align: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 0;
+    padding: 20px 0;
+  }
+  .contactus .contactus-div .contactus-details .contactus-icons {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .contactus .contactus-btn {
+    display: block !important;
+    text-align: center;
+  }
+  .contactus .contactus-btn h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .contactus .contactus-btn .btn {
+    padding: 10px 20px;
+  }
+  .footer .top-footer .top-footer-details {
+    margin-bottom: 30px;
+  }
+  .footer .bottom-footer .bottom-footer-right h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-mid .bottom-footer-logo img {
+    width: 155px;
+  }
+  .footer .bottom-footer .bottom-footer-left {
+    margin-bottom: 20px;
+  }
+  .footer .bottom-footer .bottom-footer-left ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}/*# sourceMappingURL=responsive.css.map */
