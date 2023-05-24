@@ -250,6 +250,9 @@ h6 {
   bottom: 30px;
   left: 30px;
 }
+.section-destination .desti-item .desti-item-rating .star-icon:hover {
+  color: #F56960;
+}
 .section-destination .desti-item h3 {
   color: white;
   font-size: 23px;

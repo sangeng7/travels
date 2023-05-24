@@ -310,6 +310,11 @@ h6 {
             position: absolute;
             bottom: 30px;
             left: 30px;
+            .star-icon{
+                &:hover{
+                    color: #F56960;
+                }
+            }
 
         }
 
